@@ -6,6 +6,7 @@
 ### Installation
 
 AnyaCursors is installed by running the following commands in your terminal.
+If you want to install it system wide then then run the following command with "sudo"
 
 | Method    | Command                                                                                           |
 | :-------- | :------------------------------------------------------------------------------------------------ |
