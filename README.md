@@ -12,7 +12,7 @@ If you want to install it system wide then then run the following command with `
 | :-------- | :------------------------------------------------------------------------------------------------ |
 | **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Nor-darkstar/AnyaCursors/refs/heads/master/Tools/Oninstaller.sh)"` |
 
-# Or do t manually 
+### Or do t manually 
 clone the repository and go inside it.
 ```
 git clone https://github.com/Burhanverse/Anya-cursors
