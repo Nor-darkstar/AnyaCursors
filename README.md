@@ -21,3 +21,5 @@ rm -r $HOME/.icons/AnyaCursors*
 And if you installed it system-wide use:
 ```
 sudo rm -r /usr/share/icons/AnyaCursors*
+
+[Rachit-Pal](https://github.com/Rachit-Pal/AnyaCursor) Windows cursor pack (source)
