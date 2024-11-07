@@ -15,8 +15,8 @@ AnyaCursors is installed by running the following commands in your terminal.
 
 If you installed it locally, run this command in your terminal: 
 ```
-rm -r $HOME/.icons/Anya-cursors*
+rm -r $HOME/.icons/AnyaCursors*
 ```
 And if you installed it system-wide use:
 ```
-sudo rm -r /usr/share/icons/Anya-cursors*
+sudo rm -r /usr/share/icons/AnyaCursors*
