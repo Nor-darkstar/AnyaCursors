@@ -11,3 +11,12 @@ AnyaCursors is installed by running the following commands in your terminal.
 | :-------- | :------------------------------------------------------------------------------------------------ |
 | **curl**  | `sh -c "$(curl -fsSL )https://raw.githubusercontent.com/Nor-darkstar/AnyaCursors/refs/heads/master/Tools/Oninstaller.sh"` |
 
+### Uninstallation
+
+If you installed it locally, run this command in your terminal: 
+```
+rm -r $HOME/.icons/Anya-cursors*
+```
+And if you installed it system-wide use:
+```
+sudo rm -r /usr/share/icons/Anya-cursors*
