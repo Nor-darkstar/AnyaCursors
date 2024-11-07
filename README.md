@@ -1,6 +1,6 @@
 # AnyaCursors
 <p align="center">
-	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="950" height="300" alt="Anya-cursors logo">
+	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="950" height="900" alt="Anya-cursors logo">
 </p>
 
 ### Installation
