@@ -18,7 +18,7 @@ If you want to install it system wide then then run the following command with `
 ### Or do it manually 
 clone the repository and go inside it.
 ```
-git clone https://github.com/Burhanverse/Anya-cursors
+git clone https://github.com/Nor-darkstar/AnyaCursors.git
 cd Anya-cursors
 ```
 Then, run the installer script. For local installation, use
