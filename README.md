@@ -1,6 +1,6 @@
 # AnyaCursors
 <p align="center">
-	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="350" height="300" alt="Anya-cursors logo">
+	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="350" alt="Anya-cursors logo">
 </p>
 
 ### Installation
@@ -10,7 +10,10 @@ If you want to install it system wide then then run the following command with `
 
 | Method    | Command                                                                                           |
 | :-------- | :------------------------------------------------------------------------------------------------ |
-| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Nor-darkstar/AnyaCursors/refs/heads/master/Tools/Oninstaller.sh)"` |
+| **curl**  | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Nor-darkstar/AnyaCursors/master/Tools/curstall.sh)"` |
+| **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/curstall.sh)"`   |
+| **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/curstall.sh)"` |
+
 
 ### Or do it manually 
 clone the repository and go inside it.
