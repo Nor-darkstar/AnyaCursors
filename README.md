@@ -1,7 +1,4 @@
 # AnyaCursors
-
-<img src="./AnyaCursors/cursors/ArtWork/anya.png" width="" alt="Anya-cursors logo">
-
 <p align="center">
 	<img src="./AnyaCursors/cursors/ArtWork/preview.jpg" width="800" alt="Anya-cursors logo">
 </p>
