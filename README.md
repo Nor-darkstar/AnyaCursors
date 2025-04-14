@@ -1,4 +1,6 @@
 # AnyaCursors
+A Costomized cursor theme of a SPY x Family Anime charactor Anya Foger
+Since there is no official cursor pack available for linux i simply make it on my own
 <p>
 	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="1000" alt="Anya-cursors logo">
 </p>
