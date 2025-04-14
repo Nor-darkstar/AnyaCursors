@@ -1,6 +1,6 @@
 # AnyaCursors
 <p align="center">
-	<img src="./AnyaCursors/cursors/ArtWork/Anya.png" width="" alt="Anya-cursors logo">
+	<img src="./AnyaCursors/cursors/ArtWork/anya.png" width="" alt="Anya-cursors logo">
 </p>
 
 <p align="center">
