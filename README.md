@@ -3,6 +3,7 @@
 	<img src="./AnyaCursors/cursors/ArtWork/preview.jpg" width="800" alt="Anya-cursors logo">
 </p>
 <p align="center">A Costomized cursor theme of a SPY x Family Anime charactor Anya Foger</p>
+
 ### Installation
 
 AnyaCursors is installed by running the following commands in your terminal.
