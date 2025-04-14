@@ -1,7 +1,7 @@
 # AnyaCursors
 A Costomized cursor theme of a SPY x Family Anime charactor Anya Foger
 <p>
-	<img src="https://images.pling.com/img/00/00/79/33/24/2169016/anyacursors.jpg" width="1000" alt="Anya-cursors logo">
+	<img src="./AnyaCursors/cursors/ArtWork/preview.jpg" width="1000" alt="Anya-cursors logo">
 </p>
 
 ### Installation
